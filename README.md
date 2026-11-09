@@ -1,4 +1,3 @@
-# pizza-hut-sql-analysis
 # 🍕 Pizza Hut Sales Analysis | SQL Project
 
 Analysis of Pizza Hut sales data using MySQL. I answered 13 business questions on orders, revenue, pizza popularity and peak hours, using joins, aggregations, subqueries and window functions.
